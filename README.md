@@ -31,4 +31,7 @@ How independent variables affect a continuous target (price)
 
 How to evaluate regression models (R² score, residuals)
 
+**OUTPUT**
+
+<img width="840" height="345" alt="Image" src="https://github.com/user-attachments/assets/14783a58-9dd4-4d63-9005-d712f1571969" />
 
